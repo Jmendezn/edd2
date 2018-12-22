@@ -1,0 +1,10 @@
+C:\Users\jhmn_\source\repos\edd2\edd2\bin\Debug\edd2.exe.config
+C:\Users\jhmn_\source\repos\edd2\edd2\bin\Debug\edd2.exe
+C:\Users\jhmn_\source\repos\edd2\edd2\bin\Debug\edd2.pdb
+C:\Users\jhmn_\source\repos\edd2\edd2\obj\Debug\edd2.csprojAssemblyReference.cache
+C:\Users\jhmn_\source\repos\edd2\edd2\obj\Debug\edd2.Properties.Resources.resources
+C:\Users\jhmn_\source\repos\edd2\edd2\obj\Debug\edd2.csproj.GenerateResource.cache
+C:\Users\jhmn_\source\repos\edd2\edd2\obj\Debug\edd2.csproj.CoreCompileInputs.cache
+C:\Users\jhmn_\source\repos\edd2\edd2\obj\Debug\edd2.exe
+C:\Users\jhmn_\source\repos\edd2\edd2\obj\Debug\edd2.pdb
+C:\Users\jhmn_\source\repos\edd2\edd2\obj\Debug\edd2.Form1.resources
